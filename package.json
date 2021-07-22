@@ -21,7 +21,7 @@
     "jsdom": "^16.6.0",
     "mversion": "^2.0.1",
     "node-sass": "^5.0.0",
-    "sass-loader": "^10.1.1",
+    "sass-loader": "^12.1.0",
     "style-loader": "^2.0.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "url-loader": "^4.1.1",
