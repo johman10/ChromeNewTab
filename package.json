@@ -11,7 +11,7 @@
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
     "chrome-webstore-upload-cli": "^1.2.1",
-    "copy-webpack-plugin": "^7.0.0",
+    "copy-webpack-plugin": "^9.0.1",
     "css-loader": "^5.2.7",
     "eslint": "^7.31.0",
     "eslint-plugin-vue": "^7.14.0",
